@@ -18,6 +18,8 @@ public class Main {
         if (answer == number1 + number2) {
             System.out.println("Bravo! You are correct!");
         } else {
+
+            
             System.out.println("Sorry, you are wrong.");
         }
     }
